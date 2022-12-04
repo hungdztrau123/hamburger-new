@@ -38,7 +38,9 @@ export default function LoginScreen({ navigation }) {
           value.password == password
       );
       if (arr.length > 0) {
+        alert('Đăng nhập thành công', arr[0].email)
         let curUser = arr[0];
+
         AsyncStorage.setItem('curUser', JSON.stringify(curUser));
         navigation.replace('HomeTab');
       } else alert('Email hoặc mật khẩu không chính xác!');
