@@ -76,20 +76,11 @@ export default function LoginScreen({ navigation }) {
               height: 100,
               resizeMode: 'contain',
               width: 100,
-            }}
-            source={require('../../assets/Juice.png')}
-          />
-          <Text
-            style={{
-              textAlign: 'center',
-              fontWeight: 'bold',
-              color: '#2FDBBC',
-              fontSize: 25,
               marginBottom: 50,
             }}
-          >
-            DrinkApp
-          </Text>
+            source={require('../../assets/loBK.png')}
+          />
+          
 
           <MainInput
             title={'Email'}
