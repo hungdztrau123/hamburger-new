@@ -1,0 +1,96 @@
+[
+    {
+        "id": 0,
+        "name": "KEM SOCOLA",
+        "image": "https://kemtrangtien.vn/upload/product/thumb_600x400/kem-oc-que-cacao-1595500804.png",
+        "price": 15000,
+        "ice": [
+            "Kem",
+            "Ốc quế",
+            "Siro"
+            
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+            
+
+        ],
+        "description": "Cacao, đường, trứng, sữa đặc, sữa bột béo, hương liệu. "
+    },
+    {
+        "id": 1,
+        "name": "KEM VANI",
+        "image": "https://kemtrangtien.vn/upload/product/thumb_600x400/kem-oc-que-vani-1595500768.png",
+        "price": 15000,
+        "ice": [
+            "Kem",
+            "Ốc quế",
+            "Siro"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+            
+        ],
+        "description": "Đường, sữa đặc, trứng. "
+    },
+    {
+        "id": 2,
+        "name": "KEM CỐM",
+        "image": "https://kemtrangtien.vn/upload/product/thumb_600x400/kem-oc-que-com-1595500784.png",
+        "price": 15000,
+        "ice": [
+            "Kem",
+            "Ốc quế",
+            "Siro"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Cốm, đường, sữa đặc, sữa bột béo.  "
+    },
+    {
+        "id": 3,
+        "name": "KEM SỮA DỪA",
+        "image": "https://kemtrangtien.vn/upload/product/thumb_600x400/kem-que-sua-dua-1596013396.png",
+        "price": 12000,
+        "ice": [
+            "Kem",
+            "Ốc quế",
+            "Siro"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Dừa tươi ( 2,5%). Đường kính trắng. Sữa đặc có đường 27.2%. Sữa bột béo 6.6%. Nước cốt dừa 3.4%. Nước sạch. Hương liệu tổng hợp: hương sữa, hương dứa, hương vani. "
+    },
+    {
+        "id": 4,
+        "name": "KEM KHOAI MÔN",
+        "image": "https://kemtrangtien.vn/upload/product/thumb_600x400/kem-que-khoai-mon-1658550951.png",
+        "price": 12000,
+        "ice": [
+            "Kem",
+            "Ốc quế",
+            "Siro"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Khoai môn (10%). Đường kính trắng. Sữa đặc có đường. Sữa bột béo. Nước cốt dừa. Phẩm màu thực phẩm Dioxy Titan (171) Brilliant Blue FCF (133). Hương khoai môn. Hương vani. Hương sữa."
+    }
+]

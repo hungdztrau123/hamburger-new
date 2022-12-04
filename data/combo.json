@@ -1,0 +1,100 @@
+[
+    {
+        "id": 0,
+        "name": "COMBO BURGER THAN TRE",
+        "image": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_takesumi_bg_1.jpg",
+        "price": 207000,
+        "ice": [
+            "Thịt Bò",
+            "Salad",
+            "Phô mai",
+            "Lạp xưởng"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+            
+
+        ],
+        "description": "1 Burger Than Tre + 1 Khoai Tây Chiên (M) + 1 Nước ngọt."
+    },
+    {
+        "id": 1,
+        "name": " COMBO BURGER BÒ TẮM PHÔ MAI ",
+        "image": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/3/2/32-combo-whopper-jr-b_-t_m-ph_-mai-c_-v_a_1.jpg",
+        "price": 143000,
+        "ice": [
+            "Thịt Bò",
+            "Salad",
+            "Phô mai",
+            "Lạp xưởng"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+            
+        ],
+        "description": " 1 Burger Bò Tắm Phô Mai cỡ vừa + Khoai Tây Chiên (M) + Nước ngọt."
+    },
+    {
+        "id": 2,
+        "name": " COMBO BURGER BÒ NƯỚNG WHOPPER R",
+        "image": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo-bg-bo-nuong-whp_2.jpg",
+        "price": 1350000,
+        "ice": [
+            "Thịt Bò",
+            "Salad",
+            "Phô mai",
+            "Lạp xưởng"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": " 1 Burger Bò Nướng Whopper + 1 Khoai Tây Chiên (M) + 1 Nước ngọt. "
+    },
+    {
+        "id": 3,
+        "name": " COMBO BURGER GÀ PHÔ MAI SỐT BBQ  ",
+        "image": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_burger_ga_pho_mai_so_t_bbq_1.jpg",
+        "price": 49000,
+        "ice": [
+            "Thịt Bò",
+            "Salad",
+            "Phô mai",
+            "Lạp xưởng"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": " 1 Burger Gà Phô Mai Sốt BBQ + 1 Khoai tây chiên (M) + 1 Nước ngọt. "
+    },
+    {
+        "id": 4,
+        "name": " COMBO BURGER GÀ GIÒN CAY ",
+        "image": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/3/5/35-combo-burger-g_-gi_n-cay.jpg",
+        "price": 39000,
+        "ice": [
+            "Thịt Bò",
+            "Salad",
+            "Phô mai",
+            "Lạp xưởng"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": " 1 Burger Gà Giòn Cay + 1 Khoai Tây Chiên (M) + 1 Nước ngọt."
+    }
+]
