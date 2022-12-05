@@ -30,7 +30,8 @@ export default function ProfileScreen({ navigation }) {
         paddingHorizontal: 12,
       }}
     >
-      <View style={{ flex: 1, alignItems: "center" }}>
+      <View style={{ flex: 1, alignItems: "center", }}>
+      <View style={{ width: "100%", height: 200, display:"flex", alignItems:"center",backgroundColor:"orange", justifyContent:"center",borderTopLeftRadius:20,borderTopRightRadius: 20,}}>
         <Image
           style={{
             height: 120,
@@ -54,6 +55,7 @@ export default function ProfileScreen({ navigation }) {
         >
           {user && user.email}
         </Text>
+        </View>
         <View
           style={{
             flexDirection: "row",
